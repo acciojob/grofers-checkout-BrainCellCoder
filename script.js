@@ -1,5 +1,5 @@
 const getSumBtn = document.getElementById("getSumBtn");
-const p = document.getElementById("price")
+const p = document.getElementById("ans")
 
 getSumBtn.addEventListener("click", () => {
   const priceElements = document.querySelectorAll('.price');
